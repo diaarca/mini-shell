@@ -1,5 +1,5 @@
 # Mini Shell
-This is a university project (in collaboration with [Axel Deleuze-Dordron](https://github.com/Stonksmen)) that aim to create a mini shell.
+This is a university project (in collaboration with [Axel Deleuze-Dordron](https://github.com/Stonksmen)) that aims to create a mini shell.
 ## Installation
 1. Clone this git repository :
 ```bash
