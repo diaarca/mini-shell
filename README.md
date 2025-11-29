@@ -3,7 +3,7 @@ This is a university project (in collaboration with [Axel Deleuze-Dordron](https
 ## Installation
 1. Clone this git repository :
 ```bash
-git clone git@github.com:notrage/mini-shell.git
+git clone git@github.com:diaarca/mini-shell.git
 ```
 2. Navigate to the project directory:
 ```bash
